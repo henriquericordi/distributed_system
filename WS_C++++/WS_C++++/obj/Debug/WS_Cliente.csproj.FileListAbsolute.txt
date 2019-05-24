@@ -1,0 +1,10 @@
+C:\Users\Henrique Ricordi\Documents\GitHub\distributed_system\WS_C++++\WS_C++++\obj\Debug\WS_Cliente.csprojAssemblyReference.cache
+C:\Users\Henrique Ricordi\Documents\GitHub\distributed_system\WS_C++++\WS_C++++\obj\Debug\WS_C____.Form1.resources
+C:\Users\Henrique Ricordi\Documents\GitHub\distributed_system\WS_C++++\WS_C++++\obj\Debug\WS_C____.Properties.Resources.resources
+C:\Users\Henrique Ricordi\Documents\GitHub\distributed_system\WS_C++++\WS_C++++\obj\Debug\WS_Cliente.csproj.GenerateResource.cache
+C:\Users\Henrique Ricordi\Documents\GitHub\distributed_system\WS_C++++\WS_C++++\obj\Debug\WS_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Ricordi\Documents\GitHub\distributed_system\WS_C++++\WS_C++++\bin\Debug\WS_C____.exe.config
+C:\Users\Henrique Ricordi\Documents\GitHub\distributed_system\WS_C++++\WS_C++++\bin\Debug\WS_C____.exe
+C:\Users\Henrique Ricordi\Documents\GitHub\distributed_system\WS_C++++\WS_C++++\bin\Debug\WS_C____.pdb
+C:\Users\Henrique Ricordi\Documents\GitHub\distributed_system\WS_C++++\WS_C++++\obj\Debug\WS_C____.exe
+C:\Users\Henrique Ricordi\Documents\GitHub\distributed_system\WS_C++++\WS_C++++\obj\Debug\WS_C____.pdb
