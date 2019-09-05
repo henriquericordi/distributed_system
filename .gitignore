@@ -1,3 +1,4 @@
+*.rar
 /WSAgoraVai/build/
 /WSAgoraVai/nbproject/private/
 /WSTest/nbproject/private/
@@ -7,3 +8,8 @@
 /Test/build/
 /WSTest/build/
 /WSTest/dist/
+/ControleConcorrenciaFirebase/nbproject/private/
+/ControleConcorrenciaFirebase/build/
+/Exemplo Firebase/build/
+/Exemplo Firebase/nbproject/private/
+/ControleConcorrenciaFirebase/dist/
