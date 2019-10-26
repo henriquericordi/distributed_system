@@ -20,7 +20,8 @@ public class Inserir {
 
     public static void main(String[] args) {
         Alunos a = new Alunos();
-
+        //log com caractere aleatorio
+        //destravar depois de um tempo
         Contador contador = new Contador();
         Log log = new Log();
 
@@ -32,10 +33,12 @@ public class Inserir {
             a.setIdade(21);
             a.setIdaluno(cont);
             a.setRA("120120");
-
+            //verifica se o log é seu 
+            //se não aguarda destravar
             Client c = Client.create();
             WebResource wr = c.resource("https://sistemasdistribuidos-4171a.firebaseio.com/alunos/" + cont + ".json");
             Gson gson = new Gson();
+                      
             String response = wr.type("application/json").put(String.class, gson.toJson(a));
             log.setLog(0);
             System.out.println("Response: " + response);
